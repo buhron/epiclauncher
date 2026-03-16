@@ -1,4 +1,4 @@
-package com.buhron.epiclauncher;
+package com.example.epiclauncher;
 
 import io.flutter.embedding.android.FlutterActivity;
 
