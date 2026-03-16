@@ -90,7 +90,7 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.buhron" "\0"
-            VALUE "FileDescription", "A truly Epic Launcher" "\0"
+            VALUE "FileDescription", "A truly Epic Launcher..." "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "EpicLauncher" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.buhron. All rights reserved." "\0"
