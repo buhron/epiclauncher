@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace app;
+namespace EpicLauncher.Views;
 
 public partial class MainWindow : Window
 {
