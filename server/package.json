@@ -1,0 +1,20 @@
+{
+  "name": "epiclauncher-sample-server",
+  "version": "0.0.0",
+  "description": "Sample server for Epic Launcher",
+  "homepage": "https://github.com/buhron/epiclauncher#readme",
+  "bugs": {
+    "url": "https://github.com/buhron/epiclauncher/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buhron/epiclauncher.git"
+  },
+  "license": "ISC",
+  "author": "buhron",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
